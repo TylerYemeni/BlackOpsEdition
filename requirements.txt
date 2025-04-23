@@ -13,3 +13,4 @@ pillow
 stem
 PySocks
 protonvpn-cli
+pyttsx3
