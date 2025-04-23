@@ -1,0 +1,15 @@
+requests
+faker
+twilio
+selenium
+pydub
+opencv-python
+python-dotenv
+fake_useragent
+beautifulsoup4
+lxml
+pynput
+pillow
+stem
+PySocks
+protonvpn-cli
